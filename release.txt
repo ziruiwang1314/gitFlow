@@ -1,1 +1,1 @@
-release.txt
+release1.2.txt
